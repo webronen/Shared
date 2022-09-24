@@ -1,2 +1,2 @@
 # Shared
-Shared files for projects.
+Shared content of projects.
